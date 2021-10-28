@@ -11,6 +11,7 @@ public class TestThreadCheckArray {
 			
 			for (int index = 0; index < num; index++) 
 				array[index] = input.nextInt();
+			/*jkknkn*/
 			
 			System.out.println("Enter number");
 			num = input.nextInt();
